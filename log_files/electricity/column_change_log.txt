@@ -1,0 +1,2 @@
+Entire column 'SOKWH.UCM' was initially text and converted to numeric.
+Entire column 'SOKWR.UCM' was initially text and converted to numeric.

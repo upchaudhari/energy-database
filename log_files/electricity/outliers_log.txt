@@ -1,0 +1,17 @@
+Outlier Log
+DateTime, Meter, Original_Value, Replaced_Value, 95th_Percentile, Outlier_Threshold
+On 2024-03-15 09:00:00, in meter 'CHWKWH.UCM', the original value 52404.0 was replaced with the previous valid value 7863.0. Detected as an outlier because it exceeded the threshold of 14244.524999999998 (95th Percentile: 9496.349999999999).
+On 2024-03-15 09:00:00, in meter 'CHWKWR.UCM', the original value 6356992.0 was replaced with the previous valid value 287.0. Detected as an outlier because it exceeded the threshold of 498.0 (95th Percentile: 332.0).
+On 2023-09-28 06:00:00, in meter 'STMKWR.UCM', the original value 34000000.0 was replaced with the previous valid value 4079616.0. Detected as an outlier because it exceeded the threshold of 9639936.0 (95th Percentile: 6426624.0).
+On 2023-09-28 07:00:00, in meter 'STMKWR.UCM', the original value 34000000.0 was replaced with the previous valid value 4079616.0. Detected as an outlier because it exceeded the threshold of 9639936.0 (95th Percentile: 6426624.0).
+On 2023-09-28 08:00:00, in meter 'STMKWR.UCM', the original value 34000000.0 was replaced with the previous valid value 4079616.0. Detected as an outlier because it exceeded the threshold of 9639936.0 (95th Percentile: 6426624.0).
+On 2023-09-28 09:00:00, in meter 'STMKWR.UCM', the original value 34000000.0 was replaced with the previous valid value 4079616.0. Detected as an outlier because it exceeded the threshold of 9639936.0 (95th Percentile: 6426624.0).
+On 2023-09-28 10:00:00, in meter 'STMKWR.UCM', the original value 34000000.0 was replaced with the previous valid value 4079616.0. Detected as an outlier because it exceeded the threshold of 9639936.0 (95th Percentile: 6426624.0).
+On 2023-10-26 06:00:00, in meter 'STMKWR.UCM', the original value 34000000.0 was replaced with the previous valid value 4251648.0. Detected as an outlier because it exceeded the threshold of 9639936.0 (95th Percentile: 6426624.0).
+On 2023-10-26 07:00:00, in meter 'STMKWR.UCM', the original value 34000000.0 was replaced with the previous valid value 4251648.0. Detected as an outlier because it exceeded the threshold of 9639936.0 (95th Percentile: 6426624.0).
+On 2023-10-26 08:00:00, in meter 'STMKWR.UCM', the original value 34000000.0 was replaced with the previous valid value 4251648.0. Detected as an outlier because it exceeded the threshold of 9639936.0 (95th Percentile: 6426624.0).
+On 2023-10-26 09:00:00, in meter 'STMKWR.UCM', the original value 34000000.0 was replaced with the previous valid value 4251648.0. Detected as an outlier because it exceeded the threshold of 9639936.0 (95th Percentile: 6426624.0).
+On 2023-10-26 10:00:00, in meter 'STMKWR.UCM', the original value 34000000.0 was replaced with the previous valid value 4251648.0. Detected as an outlier because it exceeded the threshold of 9639936.0 (95th Percentile: 6426624.0).
+On 2024-01-11 08:00:00, in meter 'STMKWR.UCM', the original value 34000000.0 was replaced with the previous valid value 4767744.0. Detected as an outlier because it exceeded the threshold of 9639936.0 (95th Percentile: 6426624.0).
+On 2024-01-11 09:00:00, in meter 'STMKWR.UCM', the original value 34000000.0 was replaced with the previous valid value 4767744.0. Detected as an outlier because it exceeded the threshold of 9639936.0 (95th Percentile: 6426624.0).
+On 2024-01-11 10:00:00, in meter 'STMKWR.UCM', the original value 34000000.0 was replaced with the previous valid value 4767744.0. Detected as an outlier because it exceeded the threshold of 9639936.0 (95th Percentile: 6426624.0).
