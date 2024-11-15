@@ -1,4 +1,6 @@
-streamlit
-pandas
+pip==23.2.1
+setuptools==68.0.0
 sqlalchemy
+pandas
+streamlit
 openpyxl
